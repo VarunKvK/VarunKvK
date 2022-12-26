@@ -1,6 +1,6 @@
 <h1> 👋 Hi, I’m <b>@VarunKvK</b> </h1>
 👀 I’m interested in Ui-Design and Front-End Development i.e Coding<br>
-🌱 I’m currently learning Bsc.Computer Scientist 🙃<br>
+🌱 I’m currently learning Bsc.Computer Science 🙃<br>
 📫 You can reach me in <a href="https://rb.gy/arzrri">LinkedIn</a>
 
 <!---
